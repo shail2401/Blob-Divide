@@ -21,6 +21,24 @@ C#
 Unity Physics
 Git & GitHub
 
+# 🎯Learning Goals
+
+This project is being developed to gain practical experience with:
+
+C# programming
+Object-oriented programming
+Unity game development
+Physics and collision detection
+Game state management
+Gameplay systems
+Level design
+Version control with Git
+
+
+# 📸 Screenshots
+
+Screenshots and gameplay footage will be added as development progresses.
+
 # Acknowledgments
 Inspiration & References
 Portal 2 and Brothers: A Tale of Two Sons.
