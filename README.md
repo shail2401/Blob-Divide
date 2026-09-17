@@ -5,7 +5,7 @@ A 3D puzzle game developed in Unity using C#, centered around a split-and-merge 
 
 Blob Divide is a puzzle game where the player can split a single blob into two independently controlled characters. Each blob can interact with different parts of the environment to solve puzzles and progress through the level.
 
-The project is being developed as a learning and portfolio project focused on Unity game development and C# programming.
+
 
 # 🧩 Core Gameplay
 3D character movement
